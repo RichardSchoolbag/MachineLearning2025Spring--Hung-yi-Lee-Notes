@@ -3,14 +3,27 @@
 <h1 align="center"> <img src="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/raw/main/imgs/icon/ai.png" width="30" />《李宏毅机器学习2025春》</h1>
 </p>
 
+<div align="center">
+<p align="center">
+  <a href="#项目动机">项目动机</a>/
+  <a href="#课程简介">课程简介</a>/
+  <a href="#课程资源">课程资源</a>/
+  <a href="#笔记">笔记</a>/
+  <a href="#组织者">组织者</a>/
+  <a href="#贡献者">贡献者</a>
+</p>
+</div>
+
 ---
 
 ## <img src="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/raw/main/imgs/icon/motivation.png" width="25" /> 项目动机
 
 《机器学习2025春》是**李宏毅老师**（计算机科学家，台湾大学电机工程学系教授）主讲的一系列机器学习视频。本项目收集了我们在暑假期间学习《机器学习2025春》过程中详细的**markdown笔记**。我将该**markdown**笔记开源，希望与大家共同学习进步.
 
+>本项目的特色：
+>**markdown笔记**与原课程视频一一对应，可以帮助大家一边听课一边理解。
 
-课程视频**共12节**，由于篇幅问题，我将reason_eval、reason_shorter、edit三个视频合成为一篇笔记**Model Editing**。
+课程视频**共12节**，视频时长由半小时到两小时不等.由于篇幅问题，我将reason_eval、reason_shorter、edit三个视频合成为一篇笔记**Model Editing**。
 
 本项目所用徽章来自互联网，如侵犯了您的图片版权请联系删除，谢谢。
 
@@ -35,20 +48,20 @@
 
 ## <img src="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/raw/main/imgs/icon/notes.png" width="25" /> 笔记
 
-| 章节 | 课程                                                       | 笔记                                                      |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    |[一堂课搞懂生成式人工智能的技术突破和未来发展](https://www.youtube.com/watch?v=QLiKmca4kzI&t=4846s)  |[01](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/01-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95.md)  |
-| 2    |[一堂课搞懂AI Agent的原理](https://www.youtube.com/watch?v=M2Yg1kwPpts&t=5963s)  |[02](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/02-AI%20Agent.md) |
-| 3    |[语言模型内部运作机制](https://www.youtube.com/watch?v=Xnil63UDW2o)  |[03](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/03-%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%86%85%E9%83%A8%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.md)  |
-| 4    |[介绍Transformer的竞争者们](https://www.youtube.com/watch?v=gjsdVi90yQo&t=513s)  |[04](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/04-Transformer%E7%9A%84%E7%AB%9E%E4%BA%89%E8%80%85%E4%BB%AC.md)  |
-| 5    |[大型语言模型训练方法——预训练-对齐](https://www.youtube.com/watch?v=Ozos6M1JtIE&pp=0gcJCcoJAYcqIYzv)  |[05](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/05-%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95%EF%BC%9A%E9%A2%84%E8%AE%AD%E7%BB%83-%E5%AF%B9%E9%BD%90.md)  |
-| 6    |[生成式人工智能的后训练与遗忘问题](https://www.youtube.com/watch?v=Z6b5-77EfGk&t=386s)  |[06](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/06-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%9A%84%E5%90%8E%E8%AE%AD%E7%BB%83%E4%B8%8E%E9%81%97%E5%BF%98%E9%97%AE%E9%A2%98.md)  |
-| 7    |[DeepSeek-R1这类大型语言模型是如何思考的](https://www.youtube.com/watch?v=bJFtcwLSNxI)  |[07](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/07-%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5.md)  |
-| 8    |[大型语言模型的推理过程不用过长](https://www.youtube.com/watch?v=ip3XnTpcxoA&t=1273s)  |[08](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/08-%E6%A8%A1%E5%9E%8B%E7%BC%96%E8%BE%91.md)  |
-| 9    |[大型语言模型的能力评估](https://www.youtube.com/watch?v=s266BzGNKKc)  |[08](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/08-%E6%A8%A1%E5%9E%8B%E7%BC%96%E8%BE%91.md)  |
-| 10   |[人工智能的"微创手术"——模型编辑](https://www.youtube.com/watch?v=9HPsz7F0mJg)  |[08](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/08-%E6%A8%A1%E5%9E%8B%E7%BC%96%E8%BE%91.md)  |
-| 11   |[模型融合](https://www.youtube.com/watch?v=jFUwoCkdqAo)  |[09](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/09-%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88.md)  |
-| 12   |[语音语言模型的发展](https://www.youtube.com/watch?v=gkAyqoQkOSk)  |[10](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/10-%E8%AF%AD%E9%9F%B3%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8F%91%E5%B1%95.md) |
+| 章节 | 课程                                                       | 课程链接                                                      |笔记  |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |-------------|
+| <img src="https://i-blog.csdnimg.cn/direct/09004ff797f343a392aec78506740a24.png" width="170">    |1.一堂课搞懂生成式人工智能的技术突破和未来发展 |[第一讲](https://www.youtube.com/watch?v=QLiKmca4kzI&t=4846s)  |[1.生成式人工智能技术突破和未来发展](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/01-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95.md)
+| <img src="https://i-blog.csdnimg.cn/direct/62d5ae7ed16e412ea92dd70648dd4b5e.png" width="170">   |2.一堂课搞懂AI Agent的原理  |[第二讲](https://www.youtube.com/watch?v=M2Yg1kwPpts&t=5963s) |[2.AI Agent](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/02-AI%20Agent.md)
+| <img src="https://i-blog.csdnimg.cn/direct/0ecb12d6888e4ba48ca9fc728fb5842f.png" width="170">    |3.大型语言模型内部运作机制|[第三讲](https://www.youtube.com/watch?v=Xnil63UDW2o)  |[3.语言模型内部运作机制](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/03-%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%86%85%E9%83%A8%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.md)
+| <img src="https://i-blog.csdnimg.cn/direct/6a2f818f0b4841c59652330302ce6c02.png" width="170">    |4.介绍Transformer的竞争者们|[第四讲](https://www.youtube.com/watch?v=gjsdVi90yQo&t=513s)  |[4.Transformer的竞争者们](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/04-Transformer%E7%9A%84%E7%AB%9E%E4%BA%89%E8%80%85%E4%BB%AC.md)
+| <img src="https://i-blog.csdnimg.cn/direct/d8dcaa70c1f6439fb3d0b66fbd96c05a.png" width="170">    |5.大型语言模型训练方法——预训练-对齐|[第五讲](https://www.youtube.com/watch?v=Ozos6M1JtIE&pp=0gcJCcoJAYcqIYzv)  |[5.预训练-对齐](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/05-%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95%EF%BC%9A%E9%A2%84%E8%AE%AD%E7%BB%83-%E5%AF%B9%E9%BD%90.md)
+| <img src="https://i-blog.csdnimg.cn/direct/5a7cbc11fbe943929da7b8e325f343b2.png" width="170">    |6.生成式人工智能的后训练与遗忘问题|[第六讲](https://www.youtube.com/watch?v=Z6b5-77EfGk&t=386s)  |[6.生成式人工智能的后训练和遗忘问题](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/06-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%9A%84%E5%90%8E%E8%AE%AD%E7%BB%83%E4%B8%8E%E9%81%97%E5%BF%98%E9%97%AE%E9%A2%98.md)
+| <img src="https://i-blog.csdnimg.cn/direct/8691e309f6724dc785b850c650ab737b.png" width="170">    |7.DeepSeek-R1这类大型语言模型是如何思考的|[第七讲](https://www.youtube.com/watch?v=bJFtcwLSNxI)  |[7.大型语言模型的推理能力从何而来](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/07-%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5.md)
+|<img src="https://i.ytimg.com/vi/ip3XnTpcxoA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUFPU3uYcQmn2QZpxPQomWMR_fUw" width="170">    |8.大型语言模型的推理过程不用过长|[第八讲](https://www.youtube.com/watch?v=ip3XnTpcxoA&t=1273s)  |[8.模型编辑](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/08-%E6%A8%A1%E5%9E%8B%E7%BC%96%E8%BE%91.md)
+| <img src="https://i.ytimg.com/vi/s266BzGNKKc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcGq3KTAmxdgVOKNFvPRkOb5AEBQ" width="170">    |9.大型语言模型的能力评估|[第九讲](https://www.youtube.com/watch?v=s266BzGNKKc)  |[8.模型编辑](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/08-%E6%A8%A1%E5%9E%8B%E7%BC%96%E8%BE%91.md)
+| <img src="https://i.ytimg.com/vi/9HPsz7F0mJg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAU7gEuIAbT0zm5AwLZHF7cPBXKAQ" width="170">   |10.人工智能的"微创手术"——模型编辑 |[第十讲](https://www.youtube.com/watch?v=9HPsz7F0mJg)  |[8.模型编辑](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/08-%E6%A8%A1%E5%9E%8B%E7%BC%96%E8%BE%91.md)
+| <img src="https://i-blog.csdnimg.cn/direct/3129a78df213466082930495a3e06b65.png" width="170">   |11.模型融合|[第十一讲](https://www.youtube.com/watch?v=jFUwoCkdqAo)  |[9.模型融合](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/09-%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88.md)
+| <img src="https://i-blog.csdnimg.cn/direct/174e93c55d6447d4a5a6e3fe89149b80.png" width="170">   |12.大型语音语言模型的发展|[第十二讲](https://www.youtube.com/watch?v=gkAyqoQkOSk) |[10.语音语言模型的发展](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/10-%E8%AF%AD%E9%9F%B3%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8F%91%E5%B1%95.md)
 
 
 
