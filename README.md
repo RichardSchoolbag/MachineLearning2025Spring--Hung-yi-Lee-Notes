@@ -29,11 +29,12 @@
 
 ## <img src="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/raw/main/imgs/icon/intro.png" width="25" /> 课程简介
 
-《机器学习 2025 春》是台湾大学李宏毅教授面向生成式 AI 时代的最新课程，融合经典机器学习与前沿生成模型、AI Agent 技术，以生动案例和实践项目帮助学生掌握从基础到前沿的全栈能力。
+本项目分享的课程==机器学习 2025 春==是台湾大学李宏毅教授面向**生成式 AI** 时代的最新课程，融合经典机器学习与前沿生成模型、AI Agent 技术，以生动案例和实践项目帮助学生掌握从基础到前沿的全栈能力。
 
 
-本课程不仅涵盖监督学习、无监督学习、迁移学习等传统机器学习方法，还重点引入了生成式 AI 推理能力和AI Agent 多步骤任务执行两大前沿主题。李宏毅教授通过实际演示，如利用 ChatGPT 生成讲稿、Breezy Voice 合成语音、Heygen 制作数字人视频，让学生直观感受生成式 AI 的应用潜力。
-同时，课程深入剖析了自回归生成、Token 化原理、Transformer 与 Mamba 架构的优缺点，并通过订餐等生活化案例讲解 Agent 的规划、工具调用和交互判断能力。这使得学生在掌握技术原理的同时，也能学会将其落地到实际场景中。
+本课程不仅涵盖`监督学习`、`无监督学习`、`迁移学习`等传统机器学习方法，还重点引入了生成式 AI 推理能力和AI Agent 多步骤任务执行两大前沿主题。李宏毅教授通过实际演示，如利用 ChatGPT 生成讲稿、Breezy Voice 合成语音、Heygen 制作数字人视频，让学生直观感受生成式 AI 的应用潜力。
+
+同时，课程深入剖析了`自回归生成`、`Token 化原理`、**Transformer** 与 **Mamba**架构的优缺点，并通过订餐等生活化案例讲解 Agent 的规划、工具调用和交互判断能力。这使得学生在掌握技术原理的同时，也能学会将其落地到实际场景中。
 
 ## <img src="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/raw/main/imgs/icon/resource.png" width="25" /> 课程资源
 
@@ -49,8 +50,8 @@
 ## <img src="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/raw/main/imgs/icon/notes.png" width="25" /> 笔记
 
 | 章节 | 课程                                                       | 课程链接                                                      |笔记  |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |-------------|
-| <img src="https://i-blog.csdnimg.cn/direct/09004ff797f343a392aec78506740a24.png" width="170">    |1.一堂课搞懂生成式人工智能的技术突破和未来发展 |[第一讲](https://www.youtube.com/watch?v=QLiKmca4kzI&t=4846s)  |[1.生成式人工智能技术突破和未来发展](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/01-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95.md)
+| ---- | ------------------------------------------------------------ | -------------------------------------------------------------- |-------------|
+| <img src="https://i-blog.csdnimg.cn/direct/09004ff797f343a392aec78506740a24.png" width="170">    |1.生成式人工智能的技术突破和未来发展 |[第一讲](https://www.youtube.com/watch?v=QLiKmca4kzI&t=4846s)  |[1.生成式人工智能技术突破和未来发展](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/01-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95.md)
 | <img src="https://i-blog.csdnimg.cn/direct/62d5ae7ed16e412ea92dd70648dd4b5e.png" width="170">   |2.一堂课搞懂AI Agent的原理  |[第二讲](https://www.youtube.com/watch?v=M2Yg1kwPpts&t=5963s) |[2.AI Agent](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/02-AI%20Agent.md)
 | <img src="https://i-blog.csdnimg.cn/direct/0ecb12d6888e4ba48ca9fc728fb5842f.png" width="170">    |3.大型语言模型内部运作机制|[第三讲](https://www.youtube.com/watch?v=Xnil63UDW2o)  |[3.语言模型内部运作机制](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/03-%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%86%85%E9%83%A8%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.md)
 | <img src="https://i-blog.csdnimg.cn/direct/6a2f818f0b4841c59652330302ce6c02.png" width="170">    |4.介绍Transformer的竞争者们|[第四讲](https://www.youtube.com/watch?v=gjsdVi90yQo&t=513s)  |[4.Transformer的竞争者们](https://github.com/RichardSchoolbag/MachineLearning2025Spring--Hung-yi-Lee-Notes/blob/main/Notes/04-Transformer%E7%9A%84%E7%AB%9E%E4%BA%89%E8%80%85%E4%BB%AC.md)
