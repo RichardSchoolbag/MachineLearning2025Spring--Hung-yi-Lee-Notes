@@ -53,9 +53,9 @@
   <thead>
     <tr>
       <th style="width: 20%">章节</th>
-      <th style="width: 30%">课程</th>
-      <th style="width: 20%">课程链接</th>
-      <th style="width: 30%">笔记</th>
+      <th style="width: 25%">课程</th>
+      <th style="width: 30%">课程链接</th>
+      <th style="width: 25%">笔记</th>
     </tr>
   </thead>
   <tbody>
